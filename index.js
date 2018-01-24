@@ -1,3 +1,3 @@
-Function add(a)  {
+Function add(string)  {
   a + b
 }
