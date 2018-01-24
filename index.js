@@ -1,3 +1,3 @@
-Function add(string)  {
+function add(string)  {
   a + b
 }
